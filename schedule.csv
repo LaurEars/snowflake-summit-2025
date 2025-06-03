@@ -1,15 +1,19 @@
 Status,Session Title,Session Code,Date,Start Time,End Time,Room
 
-Scheduled,Building an Iceberg Lakehouse for Snowflake,AR204,2025-06-02,14:00,14:20,"Basecamp South Theater 2 (Basecamp, South)"
-Scheduled,Opening Keynote,K1,2025-06-02,17:00,18:15,Keynote Room
+Scheduled,Building an Iceberg Lakehouse for Snowflake,AR204,2025-06-02,14:00,14:20,Basecamp South Theater 2 (Basecamp South)
+Scheduled,Opening Keynote,K1,2025-06-02,17:00,18:15,"Keynote (Basecamp, South)"
 Scheduled,Basecamp Welcome Reception,ACT101,2025-06-02,18:00,20:00,Basecamp
-Scheduled,Platform Keynote,K2,2025-06-03,09:00,11:00,Keynote Room
+Scheduled,Platform Keynote,K2,2025-06-03,09:00,11:00,"Keynote (Basecamp, South)"
 Scheduled,Lunch (TU),ACT109,2025-06-03,11:15,14:00,Esplanade (Yerba Buena Gardens)
+Scheduled,What's New: Reducing Silos with Snowflake's Managed Data Integration Service,WN212B,2025-06-03,11:30,12:15,"Room 158 (Moscone South, Upper Mezzanine)"
+Scheduled,Revolutionizing Industries with AI-Powered Drone Intelligence,IN202,2025-06-03,14:30,15:15,"Room 210 (Moscone South, Level 2)"
 Scheduled,Basecamp Happy Hour,ACT112,2025-06-03,16:00,18:00,Basecamp
-Scheduled,Builders Keynote,K3,2025-06-04,09:00,10:30,Keynote Room
+Scheduled,ESRI and Snowflake: A Geospatial Hands-on Lab,BA223,2025-06-03,18:30,20:00,Hands-On Lab 3103 (Basecamp North)
+Scheduled,Builders Keynote,K3,2025-06-04,09:00,10:30,"Keynote (Basecamp, South)"
 Scheduled,How Capital One Uses Apache Iceberg to Optimize Loading and Storage Costs,AR213,2025-06-04,11:00,11:45,"Room 201 (Moscone South, Level 2)"
 Scheduled,Lunch (W),ACT110,2025-06-04,11:00,14:00,Esplanade (Yerba Buena Gardens)
 Scheduled,What's New: Managing Costs and Optimizing Performance in Snowflake,WN210B,2025-06-04,12:00,12:45,"Room 157 (Moscone South, Upper Mezzanine)"
 Scheduled,Snowbash,ACT107,2025-06-04,17:00,19:00,Esplanade (Yerba Buena Gardens)
-Scheduled,Build and Deploy Visual Language Models for Unstructured Data Processing,AI301,2025-06-05,10:00,11:30,"Hands-on Labs 3101 (Basecamp, North)"
+Scheduled,Build and Deploy Visual Language Models for Unstructured Data Processing,AI301,2025-06-05,10:00,11:30,Hands-On Lab 3101 (Basecamp North)
 Scheduled,Lunch (TH),ACT111,2025-06-05,11:00,13:00,Esplanade (Yerba Buena Gardens)
+Scheduled,Unlocking Alpha: AI-Powered Earnings Call Analysis with S&P Global & Snowflake,AI250,2025-06-05,14:00,15:30,Hands-On Lab 3102 (Basecamp North)

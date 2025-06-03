@@ -11,26 +11,12 @@ Platform keynote presentation for Snowflake Summit 2025.
 
 ## Key Points
 
-- 
-- 
-- 
-
-## Questions & Answers
-
-- 
-- 
-
-## Follow-up Items
-
-- 
-- 
-
-## Resources Mentioned
-
-- 
-- 
-
-## Personal Thoughts
-
-- 
--
+- Openflow data ingestion tool
+- Snowpipe being better for streaming now
+- Workspaces
+- dbt things
+- Data Science agents
+- AI sql
+- Semantic views
+- "Intelligence": Text to queries w/ LLM model enrichment for additional info
+- Music demo with intelligence insights

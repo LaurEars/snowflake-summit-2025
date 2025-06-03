@@ -11,26 +11,6 @@ Opening keynote presentation for Snowflake Summit 2025.
 
 ## Key Points
 
-- 
-- 
-- 
-
-## Questions & Answers
-
-- 
-- 
-
-## Follow-up Items
-
-- 
-- 
-
-## Resources Mentioned
-
-- 
-- 
-
-## Personal Thoughts
-
-- 
--
+- NYSE
+- OpenAI
+- LA Summer Olympics (with a snowboard)

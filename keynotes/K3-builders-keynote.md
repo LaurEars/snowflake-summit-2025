@@ -11,26 +11,6 @@ Builders keynote presentation for Snowflake Summit 2025.
 
 ## Key Points
 
-- 
-- 
-- 
-
-## Questions & Answers
-
-- 
-- 
-
-## Follow-up Items
-
-- 
-- 
-
-## Resources Mentioned
-
-- 
-- 
-
-## Personal Thoughts
-
-- 
--
+- Whoop agent analytics demo
+- Apache iceberg (managed and not)
+- Toyota demo with data mesh

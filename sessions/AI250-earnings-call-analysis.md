@@ -46,10 +46,10 @@ Hands-on lab session about AI-powered earnings call analysis with S&P Global & S
 - Took two weeks and $20k to run queries
 - Can use Streamlit in Snowflake notebook
 
-![snowflake notebook inline streamlit](earnings-call-analysis.png)
+![snowflake notebook inline streamlit](images/earnings-call-analysis.png)
 
 ## Results
 
 From the publication
 
-![portfolio performance](portfolio-performance.png)
+![portfolio performance](images/portfolio-performance.png)

@@ -22,29 +22,29 @@ Hands-on lab session about AI-powered earnings call analysis with S&P Global & S
 
 - Get alpha out of earnings call data
 - Intro to Snowflake Cortex AI
-- Lab will use [this github repo](https://github.com/Snowflake-Labs/sfguide-s-and-p-market-intelligence-analyze-earnings-transcripts-in-cortex-ai)
-- Cortex Analyst vs Search
+- Lab will use [this GitHub repo](https://github.com/Snowflake-Labs/sfguide-s-and-p-market-intelligence-analyze-earnings-transcripts-in-cortex-ai)
+- Cortex Analyst vs. Search
 
 ## Background Research
 - Cortex to analyze earnings calls (especially Q&A)
-  - H1: companies with on-topic answers in Q&A outperform firms that pivot topics
+  - H1: Companies with on-topic answers in Q&A outperform firms that pivot topics
   - H2: Firms proactively addressing issues before Q&A outperform question-prompted responses
-- Summarization useful for noise reduction, improved matching, standardization and computational efficient
-- Vector embedding w/ cosine similarity between questions and answers
+- Summarization useful for noise reduction, improved matching, standardization and computationally efficient
+- Vector embedding with cosine similarity between questions and answers
 - Publication
   - Questioning the Answers: LLMs enter the Boardroom
   - By Henry Chiang, Liam Hynes, and Daniel Sandberg
-  - 🤓 [Publication link:](https://www.spglobal.com/market-intelligence/en/news-insights/research/questioning-the-answers-llms-enter-the-boardroom)
+  - 🤓 [Publication link](https://www.spglobal.com/market-intelligence/en/news-insights/research/questioning-the-answers-llms-enter-the-boardroom)
 
 ## Technical Details
 
-- Only use top 60% of most relevant questions vs component part (to remove "Good morniing, how are you today?" types of questions)
+- Only use top 60% of most relevant questions vs. component part (to remove "Good morning, how are you today?" types of questions)
 - Execute Python in Snowflake notebook
 - Compare pre-prepared remarks to both answers and questions to assess relevance between them
 - Use top 60% of answers "to remove fluff"
-- Use low temperature (i.e. zero) to limit variation
+- Use low temperature (i.e., zero) to limit variation
 - Took two weeks and $20k to run queries
-- Can use streamlit in snowflake notebook
+- Can use Streamlit in Snowflake notebook
 
 ![snowflake notebook inline streamlit](earnings-call-analysis.png)
 

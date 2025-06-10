@@ -16,6 +16,6 @@ Session about revolutionizing industries with AI-powered drone intelligence.
 ## Key Points
 
 - Telco edge to data (20 ms)
-- "Cannot use the term 'one minute' and 'realtime' at the same time in telco"
+- "Cannot use the term 'one minute' and 'real-time' at the same time in telco"
 - How to get insights out of the drone data
-- Combine with other mapping data sources (roads, vegetation index, etc)
+- Combine with other mapping data sources (roads, vegetation index, etc.)

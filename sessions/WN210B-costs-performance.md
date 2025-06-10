@@ -15,15 +15,15 @@ Session about new features for managing costs and optimizing performance in Snow
 
 ## Key Points
 
-- Multiple types of cost management
+- Multiple types of cost management:
   - Visibility
   - Control
   - Optimization
 - Anomaly detection for costs
-- Different roles for viewing vs updating cost management
-- Query acceleration, with support for iceberg
+- Different roles for viewing vs. updating cost management
+- Query acceleration, with support for Iceberg
 - Detection of indexes to add and query acceleration
 
 ## Demo Notes
 
-- Query insights demo - query for insights and possible issues on queries
+- Query insights demo - query for insights and possible issues in queries

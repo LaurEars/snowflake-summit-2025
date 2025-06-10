@@ -17,18 +17,18 @@ Session about new features for reducing data silos with Snowflake's managed data
 
 ## Key Points
 
-- Data integration
+- Data integration service improvements
 - New tool: Openflow
 - Can handle unstructured data
 
 ## Technical Details
 
 - Built on top of Apache NiFi
-- NiFi did not have CDC, but they added it
+- NiFi did not have CDC (Change Data Capture), but they added it
 - Can push to/from Kafka
 
 ## Demo Notes
 
-- Launch Openflow from snowflake UI
+- Launch Openflow from Snowflake UI
 - New connectors for multiple databases and data sources
 - Can replay items, see lineage

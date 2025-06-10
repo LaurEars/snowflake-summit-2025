@@ -16,7 +16,7 @@ Session about building an Iceberg Lakehouse for Snowflake.
 ## Key Points
 
 - Open data lakehouse new standard
-- Ingestion into iceberg, then optimization
+- Ingestion into Iceberg, then optimization
 
 ## Technical Details
 
@@ -24,7 +24,7 @@ Session about building an Iceberg Lakehouse for Snowflake.
 
 ## Demo Notes
 
-- Multitenant
+- Multi-tenant
 
 ## Resources Mentioned
 

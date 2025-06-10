@@ -21,19 +21,19 @@ Hands-on lab session about building and deploying visual language models for uns
 
 - Using Qwen for video
 - `CORTEX.AI_TRANSCRIBE` for audio
-- [git repo](https://github.com/Snowflake-Labs/sfguide-extracting-insights-from-video-with-multimodal-ai-analysis/)
-- "compute pool like a warehouse but for running container services"
-- Image has been pre-uploaded to snowflake account
-- Used snowflake UI to upload raw files via stage instead of workspace code
+- [Git repo](https://github.com/Snowflake-Labs/sfguide-extracting-insights-from-video-with-multimodal-ai-analysis/)
+- "Compute pool like a warehouse but for running container services"
+- Image has been pre-uploaded to Snowflake account
+- Used Snowflake UI to upload raw files via stage instead of workspace code
 - `EXECUTE JOB SERVICE` spins up containerized worker (Qwen)
-- Can see status and container states in `Projects/Services and Jos` menu in snowflake UI
-- AI transcription is in snowflake private preview
-- video/audio/slides steps can be done in parallel
+- Can see status and container states in `Projects/Services and Jobs` menu in Snowflake UI
+- AI transcription is in Snowflake private preview
+- Video/audio/slides steps can be done in parallel
 
 ## Code Snippets
 
 ```snowflake
--- to get respository url for the service yaml
+-- to get repository URL for the service yaml
 SHOW IMAGE REPOSITORIES IN SCHEMA spcs_db.public;
 -- to get tags and image path
 SHOW IMAGES IN IMAGE REPOSITORY spcs_db.public.model_repo;

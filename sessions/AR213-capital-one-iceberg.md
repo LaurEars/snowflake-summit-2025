@@ -18,7 +18,7 @@ Session about Capital One's use of Apache Iceberg for cost optimization.
 - Capital One lakehouse journey
 - Duplicate costs between data warehouse and lakehouse for same data
 - Data catalog strategy becomes important
-- Automation for new data sets, self-service tools for migration of existing data sets
+- Automation for new datasets, self-service tools for migration of existing datasets
 
 ## Technical Details
 

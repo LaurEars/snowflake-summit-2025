@@ -16,7 +16,7 @@ Platform keynote presentation for Snowflake Summit 2025.
 - Workspaces
 - dbt things
 - Data Science agents
-- AI sql
+- AI SQL
 - Semantic views
-- "Intelligence": Text to queries w/ LLM model enrichment for additional info
+- "Intelligence": Text to queries with LLM model enrichment for additional info
 - Music demo with intelligence insights

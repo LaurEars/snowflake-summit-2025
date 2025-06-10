@@ -2,7 +2,7 @@
 
 https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1744973423866001Mmx9
 - **Date**: June 2, 2025
-- **Time**: 2:30 PM - 3:15 PM PDT
+- **Time**: 14:30 - 15:15
 - **Location**: Room 210 (Moscone South, Level 2)
 - **Session Code**: AD231
 
@@ -10,10 +10,12 @@ https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/s
 
 ## Overview
 
+Session about transforming the real estate industry with data and predictive AI using Left Main REI's CRM solution.
+
 ## Key Points
 
 - Challenge: Regulations changing quickly and fragmented tools
-- "Core competitor is excel"
+- "Core competitor is Excel"
 - Property data, lead scoring and buyer recommendations
 
 ## Technical Details

@@ -1,0 +1,6 @@
+I'm going to the snowflake summit 2025 conference in June. Included in @/schedule.csv file is my schedule. Can you set up the skeleton (so all the files, headings, sections, and notes pages in markdown format) of this fresh repo similarly to how it is done in https://github.com/LaurEars/scale22x-notes ? Maybe have one folder for sessions and another for keynotes, and create an additional file for a schedule.md that has a table with my current schedule information and the type of schedule event (lunch, keynote, session, etc) then when I get to the conference, I'll have a bunch of markdown pages already set up so I can start taking notes in them in markdown format in my IDE at the conference.
+
+Somewhere in the readme, can you also include these very helpful links so they are handy?
+
+agenda page: https://reg.snowflake.com/flow/snowflake/summit25/agenda/page/main
+main website: https://www.snowflake.com/en/summit/
